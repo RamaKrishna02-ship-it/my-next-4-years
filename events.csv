@@ -1,0 +1,11 @@
+event_id,created_at,event_type,lead_id,details
+9e53194b-12cc-4ae3-9997-ca1139bce21c,2026-11-17T17:53:18.234128+00:00,profile_created,,"{""exam"": ""AP EAPCET"", ""state"": ""Andhra Pradesh"", ""branch"": ""Computer Science / AI""}"
+ede587da-cf48-4d5d-a98c-4d77e460834a,2026-11-17T18:44:37.691155+00:00,profile_created,,"{""exam"": ""AP EAPCET"", ""state"": ""Andhra Pradesh"", ""branch"": ""Computer Science / AI""}"
+25ac8f60-d7b9-425e-b75f-45a987e03d07,2026-11-17T19:41:59.792216+00:00,profile_created,,"{""exam"": ""AP EAPCET"", ""state"": ""Andhra Pradesh"", ""branch"": ""Computer Science / AI""}"
+82c614d9-5d76-46e1-ab20-730c29de576d,2026-11-17T19:48:29.727054+00:00,consented_enquiry_submitted,c5aa9c18-b8f4-4d4b-a882-69591be2c8ef,High intent
+1602319d-7e08-4e36-8899-abd59af47da3,2026-11-17T19:48:50.942962+00:00,consented_enquiry_submitted,37c09404-f997-435b-8b06-192406793cec,High intent
+da0fb79a-d121-46ee-a85c-fe39ab9d3bd0,2026-11-17T20:00:26.981485+00:00,profile_created,,"{""exam"": ""AP EAPCET"", ""state"": ""Andhra Pradesh"", ""branch"": ""Computer Science / AI""}"
+c4065ba5-8b6b-4c19-be97-04139a3412de,2026-11-17T20:00:39.118649+00:00,consented_enquiry_submitted,02980598-b847-42fe-b3d2-7bc408f657e6,High intent
+5e31d3f7-34ff-4bbd-9329-779e36ae5310,2026-11-17T20:00:57.551119+00:00,consented_enquiry_submitted,4616a4dc-1a4c-4e8b-9e41-ba9c9fe3b09a,High intent
+b9c9e046-1f93-41d3-9d69-d5bc97578eca,2026-11-18T10:08:34.091035+00:00,profile_created,,"{""exam"": ""AP EAPCET"", ""state"": ""Andhra Pradesh"", ""branch"": ""Computer Science / AI""}"
+dcc46501-ef15-4aed-8b45-c14970d319c8,2026-11-18T10:08:48.546386+00:00,profile_created,,"{""exam"": ""AP EAPCET"", ""state"": ""Andhra Pradesh"", ""branch"": ""Computer Science / AI""}"

@@ -1,0 +1,6 @@
+gradio>=5.0
+google-genai>=1.0.0
+python-dotenv>=1.0.1
+requests>=2.31.0
+gspread>=6.1.2
+google-auth>=2.29.0
